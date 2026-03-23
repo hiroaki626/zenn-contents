@@ -1,5 +1,5 @@
 ---
-title: "「SQLは書けるけどCLIは苦手」なデータアナリストがClaude CodeでZenn投稿環境を構築した話"
+title: "Claude Codeに「Zenn環境作って」と言ったら全部やってくれた話"
 emoji: "🛠️"
 type: "tech"
 topics: ["claudecode", "ai", "zenn", "初心者向け"]
